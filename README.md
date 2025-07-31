@@ -6,5 +6,5 @@ Designed to be run on https://data.lsst.cloud/
 Instructions:
 1. Log in to https://data.lsst.cloud/nb/hub
 2. Load up a Jupyter session.
-3. Open a new terminal, and run ```git clone https://github.com/sidchaini/RCW25_AnomalyTutorial.git```/
+3. Open a new terminal, and run ```git clone https://github.com/sidchaini/RubinCW25-Anomalies.git```/
 5. Open the directory and you can now run the notebooks.
