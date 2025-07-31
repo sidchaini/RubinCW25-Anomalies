@@ -1,7 +1,10 @@
-Other reference notebooks:
-1. ComcamSNe (Ryan's notebook on DP1 iForest but on USDF), shared by Andres on chat.
-2. [305_1_Variable_star_light_curves.md](https://dp1.lsst.io/tutorials/notebook/305/notebook-305-1.html) from DP1 Tutorials
-3. [306_1_Transient_light_curves.ipynb](https://dp1.lsst.io/tutorials/notebook/306/notebook-306-1.html) from DP1 Tutorials
-4. [306_2_candidate_transient_identification.md](https://dp1.lsst.io/tutorials/notebook/306/notebook-306-2.html) from DP1 Tutorials
-5. [17_DiaObject_Anomaly_Detection.md](https://dp0-2.lsst.io/_static/nb_html/17_DiaObject_Anomaly_Detection.html) from DP0.2 Tutorials
-6. [19a_Introduction_to_AI.md](https://dp0-2.lsst.io/_static/nb_html/19a_Introduction_to_AI.html) from DP0.2 Tutorials
+# Tutorial on Using Anomaly Detection with LSST DP1 Data.
+Siddharth Chaini, Andres A. Plazas Malagón 
+
+Designed to be run on https://data.lsst.cloud/
+
+Instructions:
+1. Log in to https://data.lsst.cloud/nb/hub
+2. Load up a Jupyter session.
+3. Open a new terminal, and run ```git clone https://github.com/sidchaini/RCW25_AnomalyTutorial.git```/
+5. Open the directory and you can now run the notebooks.
